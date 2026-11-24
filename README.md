@@ -1,2 +1,3 @@
 # Crowdsourced-Civic-Issue-Reporting-and-Resolution-System
 Engineering Project
+"Developed a web-based civic issue reporting and resolution system that allows citizens to report problems such as damaged roads, garbage accumulation, water leakage, and broken streetlights. Users can submit complaints with images, track complaint status, and receive email notifications. The system enables government departments to manage complaints, update progress, and upload completion proof."
